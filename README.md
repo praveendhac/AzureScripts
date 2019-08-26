@@ -1,2 +1,2 @@
 # AzureScripts
-Scripts to automate Azure Tasks
+Scripts to automate Azure Tasks using az-cli, SDK etc.
