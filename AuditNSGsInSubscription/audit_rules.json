@@ -1,0 +1,6 @@
+{
+    "skip_aks": "true",
+    "exclude_nsgs": [],
+    "exclude_rgs": ["MC_"],
+    "sourceAddressPrefixes": "space seperated IP List"
+}
